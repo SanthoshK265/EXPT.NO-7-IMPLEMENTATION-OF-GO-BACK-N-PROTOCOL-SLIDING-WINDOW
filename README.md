@@ -1,6 +1,6 @@
 # EXPT.NO-8-IMPLEMENTATION-OF-GO-BACK-N-PROTOCOL-SLIDING-WINDOW
 # AIM
-To write and execute a program for Go-Back-N protocol.
+To write and execute a program for Go-Back-N protocol
 # EQUIPMENTS REQUIRED
 Personal Computer Turbo C Compiler
 # PROCEDURE
